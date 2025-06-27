@@ -1,0 +1,1 @@
+# The-Inverse-Product-Differentiation-Logit-Model-Replication
